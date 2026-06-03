@@ -9,7 +9,7 @@ My solutions to [rustlings](https://github.com/rust-lang/rustlings) exercises wh
 
 ## Progress
 
-**24 / 94** exercises completed
+**43 / 94** exercises completed
 
 | Section | Progress | Status |
 |---|---|---|
@@ -19,13 +19,13 @@ My solutions to [rustlings](https://github.com/rust-lang/rustlings) exercises wh
 | 03_if | 3 / 3 | ✅ |
 | quizzes | 1 / 3 | 🚧 |
 | 04_primitive_types | 6 / 6 | ✅ |
-| 05_vecs | 0 / 2 | ⬜ |
-| 06_move_semantics | 1 / 5 | 🚧 ← now |
-| 07_structs | 0 / 3 | ⬜ |
-| 08_enums | 0 / 3 | ⬜ |
-| 09_strings | 0 / 4 | ⬜ |
-| 10_modules | 0 / 3 | ⬜ |
-| 11_hashmaps | 0 / 3 | ⬜ |
+| 05_vecs | 2 / 2 | ✅ |
+| 06_move_semantics | 5 / 5 | ✅ |
+| 07_structs | 3 / 3 | ✅ |
+| 08_enums | 3 / 3 | ✅ |
+| 09_strings | 4 / 4 | ✅ |
+| 10_modules | 3 / 3 | ✅ |
+| 11_hashmaps | 0 / 3 | 🚧 ← now |
 | 12_options | 0 / 3 | ⬜ |
 | 13_error_handling | 0 / 6 | ⬜ |
 | 14_generics | 0 / 2 | ⬜ |
