@@ -35,15 +35,6 @@ My solutions to [rustlings](https://github.com/rust-lang/rustlings) exercises wh
 | 18_iterators | 5 / 5 | ✅ |
 | 19_smart_pointers | 4 / 4 | ✅ |
 | 20_threads | 0 / 3 | 🚧 ← now |
-| 12_options | 0 / 3 | ⬜ |
-| 13_error_handling | 0 / 6 | ⬜ |
-| 14_generics | 0 / 2 | ⬜ |
-| 15_traits | 0 / 5 | ⬜ |
-| 16_lifetimes | 0 / 3 | ⬜ |
-| 17_tests | 0 / 3 | ⬜ |
-| 18_iterators | 0 / 5 | ⬜ |
-| 19_smart_pointers | 0 / 4 | ⬜ |
-| 20_threads | 0 / 3 | ⬜ |
 | 21_macros | 0 / 4 | ⬜ |
 | 22_clippy | 0 / 3 | ⬜ |
 | 23_conversions | 0 / 5 | ⬜ |
