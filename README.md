@@ -9,7 +9,7 @@ My solutions to [rustlings](https://github.com/rust-lang/rustlings) exercises wh
 
 ## Progress
 
-**83 / 94** exercises completed
+**94 / 94** exercises completed 🎉
 
 | Section | Progress | Status |
 |---|---|---|
@@ -34,7 +34,7 @@ My solutions to [rustlings](https://github.com/rust-lang/rustlings) exercises wh
 | 17_tests | 3 / 3 | ✅ |
 | 18_iterators | 5 / 5 | ✅ |
 | 19_smart_pointers | 4 / 4 | ✅ |
-| 20_threads | 0 / 3 | 🚧 ← now |
-| 21_macros | 0 / 4 | ⬜ |
-| 22_clippy | 0 / 3 | ⬜ |
-| 23_conversions | 0 / 5 | ⬜ |
+| 20_threads | 3 / 3 | ✅ |
+| 21_macros | 4 / 4 | ✅ |
+| 22_clippy | 3 / 3 | ✅ |
+| 23_conversions | 5 / 5 | ✅ |
